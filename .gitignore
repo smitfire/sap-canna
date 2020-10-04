@@ -9,3 +9,6 @@ prod
 .env
 yarn.lock
 static/index.css
+
+# Local Netlify folder
+.netlify
